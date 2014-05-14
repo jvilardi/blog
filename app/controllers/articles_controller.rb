@@ -11,7 +11,6 @@ def create
   else
     render 'new'
   end
-
 end
 
 def show
